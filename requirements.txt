@@ -1,0 +1,6 @@
+requests>=2.28
+colorama>=0.4.6
+# tuỳ chọn (không bắt buộc, chỉ cần khi bị captcha / muốn đọc ảnh tốt hơn)
+# ddddocr>=1.4
+# opencv-python>=4.8
+# pillow>=10.0
